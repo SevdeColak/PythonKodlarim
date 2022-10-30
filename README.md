@@ -1,1 +1,2 @@
-# python-al-ma
+# python alistirma
+www.patika.dev
